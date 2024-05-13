@@ -1,7 +1,1 @@
 # Cancer detection
-
-Libraries used 
--
--
--
--
