@@ -4,9 +4,8 @@ pandas==1.5.1
 matplotlib==3.6.2  FOR GRAPHICAL REPRESENTATION (graphs, maps)
 seaborn==0.10.1
 
-TO RE-SAMPLING (balance) DATASET - imblearn
+imblearn  TO RE-SAMPLING (balance) DATASET
+pickle  TO SERIALIZING AND DESERIALIZING - 
 
-TO SERIALIZING AND DESERIALIZING - pickle
-
-FOR IMPLEMENTING ALGORITHMS - sklearn==1.5.0
-                            - xgboost==2.1.0
+sklearn==1.5.0  FOR IMPLEMENTING ALGORITHMS
+xgboost==2.1.0
