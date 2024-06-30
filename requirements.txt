@@ -1,8 +1,8 @@
 numpy==1.26
 pandas==1.5.1
 
-FOR GRAPHICAL REPRESENTATION (graphs, maps) - matplotlib==3.6.2
-                                            - seaborn==0.10.1
+matplotlib==3.6.2  FOR GRAPHICAL REPRESENTATION (graphs, maps)
+seaborn==0.10.1
 
 TO RE-SAMPLING (balance) DATASET - imblearn
 
